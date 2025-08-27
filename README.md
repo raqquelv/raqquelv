@@ -30,9 +30,7 @@
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFEBEB?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/raquel-valdambrini-laurindo/)  
-[![Gmail](https://img.shields.io/badge/Gmail-FFBCBC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:raqquelv12@gmail.com)  
-[![Substack](https://img.shields.io/badge/Substack-FF5C5C?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@raquelvaldambrini)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFEBEB?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/raquel-valdambrini-laurindo/) | [![Gmail](https://img.shields.io/badge/Gmail-FFBCBC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:raqquelv12@gmail.com) | [![Substack](https://img.shields.io/badge/Substack-FF5C5C?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@raquelvaldambrini)   
 
 ---
 
